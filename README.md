@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/75753187/123350185-74ce0900-d528-11eb-848d-d92955dbb944.png" alt="my banner"></a>
+  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://preview.redd.it/zg5un6p4b3j51.png?auto=webp&s=506ea6566d61a5e065e1ecd630a613ed4b795f94" alt="my banner"></a>
 </p>
 
 <h3 align="center">
@@ -67,6 +67,4 @@ I love the entire process of developing creative websites, or just consuming thi
 
 ## 📈 GitHub Stats 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeneralJoker)](https://github.com/GeneralJoker)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/yushi1007)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=nightowl&show_icons=true)(https://github.com/GeneralJoker)
