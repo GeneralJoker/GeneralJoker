@@ -70,4 +70,4 @@ I love the entire process of developing creative websites, or just consuming thi
 
 ## 📈 GitHub Stats 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=nightowl&show_icons=true)(https://github.com/GeneralJoker)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=nightowl&show_icons=true)(https://github.com/GeneralJoker )
