@@ -18,6 +18,7 @@ I love the entire process of developing creative websites, or just consuming thi
 <a href="https://www.instagram.com/greatgeneraloftheheavens/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
 
 </br>
+
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 ## 🔭 I'm currently working on
@@ -62,7 +63,8 @@ I love the entire process of developing creative websites, or just consuming thi
 
 ## 📝 Latest Blog Posts
 
-- 
+- TBD 2022
+
 ## 📈 GitHub Stats 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeneralJoker)](https://github.com/GeneralJoker)
