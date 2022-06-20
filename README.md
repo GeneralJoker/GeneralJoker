@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://preview.redd.it/zg5un6p4b3j51.png?auto=webp&s=506ea6566d61a5e065e1ecd630a613ed4b795f94" alt="my banner"></a>
+  <a href="https://github.com/GeneralJoker/" target="_blank" rel="noreferrer"><img src="https://preview.redd.it/zg5un6p4b3j51.png?auto=webp&s=506ea6566d61a5e065e1ecd630a613ed4b795f94" alt="my banner"></a>
 </p>
 
 <h3 align="center">
