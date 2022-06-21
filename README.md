@@ -27,7 +27,7 @@ I love the entire process of developing creative websites, or just consuming thi
 ## 🔭 I'm currently working on
 
 - My Portfolio website
-- Making a Django blog
+- Making a Pokedex app with React
 
 ## 🌱 I'm currently learning
 
